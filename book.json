@@ -1,0 +1,21 @@
+{
+    "plugins": [
+      "theme-comscore",
+      "disqus"
+    ],
+  
+    "pluginsConfig": {
+      "fontSettings": {
+        "theme": "sepia",
+        "family": "serif",
+        "size": 4
+      },
+      "disqus": {
+        "shortName": "zoe"
+      },
+      "theme-default": {
+        "showLevel": true
+      }
+    }
+    
+  }
